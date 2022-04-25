@@ -1,0 +1,7 @@
+$git init
+$git remote add origin (repository-link)
+$git fetch origin
+$git add .
+$git commit -m ""
+$git push origin HEAD
+

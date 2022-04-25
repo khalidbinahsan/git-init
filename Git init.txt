@@ -1,0 +1,13 @@
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/khalidbinahsan/initial-code.git
+git push -u origin master
+
+
+when you want to some change on exist repository....
+git status
+git add .
+git commit -m "some changeg"
+git push -u origin master
